@@ -1,0 +1,180 @@
+// common classes
+.bluelight{
+		color:#2BCAFF; 
+		
+		}
+.icon{
+	font-size: 100px;
+	color: #34C5FF;
+}
+.padbottom{
+	padding-bottom: 60px;
+}
+
+.padtop{
+	padding-top: 60px;
+}
+.bluecolor{
+	color:  #34C5FF;
+}
+.boldfont{
+	font-weight: bold;
+}
+
+
+#features{
+	height: 560px;
+	background-color: #F0F0F0;
+		.loremtxt{
+			margin-top:100px;
+
+
+				.H4hover:hover  {
+					border-radius: 5px;
+					background-color: #34C5FF;
+					color: white;
+				}
+
+		}
+	.featuresImg{
+		width: 1000px;
+		height: 520px;
+	}
+	.features2{
+		width: 900px;
+		height: 500px;	
+	}
+}
+
+#icons{
+	width: 100%;
+	min-height: 600px;
+
+		.icon{
+			color:#1CC6FF;
+			font-size: 45px;
+			font-weight: bold;
+				
+		}
+		.col-md-3:hover i{
+			color: #CEF3FF;
+		}
+}
+
+#liveUpdate{
+	width: 100%;
+	min-height: 145px;
+	background-image: url("../../images/background.jpg");
+	background-size: cover;
+		h1{
+			font-weight: 300;
+			color: white;
+		}
+		p{
+			color: white;
+		}
+		.btn{
+			border: 1px solid white;
+			background: transparent;
+			color: white;
+			width: 144px;
+			height: 48px;
+		}
+		.getlive{
+			padding-top: 20px;
+			font-weight: 3.5em;
+		}
+		.name{
+			margin-top: 30px;
+			width: 183px;
+			height: 47px;
+			margin-right: 10px;
+		}
+		.email{
+			width: 277px;
+			height: 47px;
+			margin-top: 30px;
+			margin-right: 10px;
+		}
+		.btn{
+			margin-top: 30px;
+		}
+}
+
+#prices{
+	min-height: 824px;
+		.individual{
+			background: #F8F8F8;
+			color: #BEBEBE;
+		}
+		.currency{
+			font-size: 47px;
+			margin:0 auto;
+			color: #BEBEBE;
+			padding-right: 0px;
+			vertical-align: super;
+
+
+		}
+		.price{
+			font-size: 115px;
+			background: #F3F3F3;
+			color: #BEBEBE;
+		}
+		.individual:hover{
+			background: #1AC6FF;
+			color:white;
+		}
+	.permonth{
+		background-color: #F3F3F3;
+		color:#BEBEBE; 
+	}
+
+	h1{
+		margin-top:75px;
+		font-weight: 300;
+		font-size: 45px;
+	}
+
+	.free{
+		padding-top: 20px;
+		border-bottom: 1px solid #E1E1E1;
+		line-height: 25px;
+		color:#BEBEBE; 
+	}
+	.disc{
+		padding-top: 10px;
+		padding-bottom: 30px;
+		color: #BEBEBE;
+	}
+	.getbtn{
+		width: 248px;
+		height: 49px;
+		background: transparent;
+		border: 1px solid #B6B6B6;
+		margin-bottom: 30px;
+		color: #BBBBBB;
+
+
+	}
+	.thirdDiv{
+		background: #F8F8F8;
+	}
+	
+}
+#awards{
+	min-height: 80px;
+	h1{
+		margin-top: 60px;
+		margin-bottom: 10px;
+		font-weight: 300;
+		font-size: 45px;
+		text-align: center;
+	}
+	.col-md-12{
+		margin-bottom: 80px;
+	}
+		.col-md-2{
+			margin-bottom: 30px;
+		}
+}

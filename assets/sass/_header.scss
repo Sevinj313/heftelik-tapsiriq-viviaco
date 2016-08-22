@@ -1,0 +1,198 @@
+// COMMON CLASSES HERE.........
+.padtop{
+	padding-top: 60px;
+}
+.padbottom{
+	padding-bottom: 60px;
+}
+.fontWeight{
+	font-weight: 300;
+}
+.colorWhite{
+		color: white;
+}
+
+.paddingTop{
+		padding-top: 30px;
+}
+.FltRght{
+		float: right;
+}
+
+.bluelight{
+		color:#2BCAFF; 
+		
+		}
+
+.xett{
+		width: 100%;
+		color:#F0F0F0;
+
+		}
+.bluebutton{
+	width: 213px;
+	height: 45px;
+	color: white;
+	border-radius: 3px;
+	box-shadow: none;
+	border: 1px solid #2BCAFF;
+	background: #2BCAFF;
+	margin-right: 10px;
+}	
+.transparentBtn{
+	width: 145px;
+	height: 45px;
+	background: transparent;
+	border: 1px solid white;
+	border-radius: 3px;
+	color: white;
+
+		&:hover{
+			background-color: white;
+			color:  #2BCAFF;
+		}
+}
+
+
+.Bluebtn{
+	width: 182px;
+	height: 60px;
+	color: #2BCAFF;
+	background: white;
+	border: 2px solid #2BCAFF;
+	margin-right: 0px;
+	margin-top:60px;
+	border-radius: 2px;
+	margin-left: 10px;
+
+		&:hover{
+			background-color: #2BCAFF;
+			color: white;
+		}
+}
+
+// .secondpart{
+// 			padding-top: 100px;
+// 			font-weight: 300;
+// 			margin-left: 20px;
+// 			margin-bottom: 20px;
+// 			font-size: 2.0em;
+// 		}
+
+#home{
+	width: 100%;
+	min-height: 670px;
+	background: url("../../images/background.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+
+	a img{
+		width: 130px;
+		height: 28px;
+	}
+	h1{
+		font-weight: 300;
+		font-size: 58px;
+	}
+	h4{
+		font-weight: 300;
+		
+	}
+	
+	.navbar.navbar-default{
+	background: transparent;
+	box-shadow: none;
+	border:none;
+	padding-top: 7px;
+	// position: fixed;
+	
+		.btn{
+			background:transparent;
+			color: #2BCAFF;
+			border:1px solid #2BCAFF;
+			margin-top: 10px;
+			width: 100px;
+			height: 40px;
+
+				.btn :hover{
+					background-color: #2BCAFF !important;
+					color: white !important;
+				}
+		}
+		li{
+			margin-top: 10px;
+
+				a{
+					color:#CDCBDD;
+				} 
+				a:hover{
+					color:#2BCAFF !important;
+					border-bottom: 2px solid #2BCAFF !important;
+				
+				}
+
+
+		}
+
+
+}
+	.textClass{
+		margin-top: 200px;
+		font-size: 4.0em;
+		font-weight: 300;
+		 
+	.buttons{
+		margin-top: 40px;
+			
+			 .fa{
+				margin-right: 5px;
+			}
+	}
+
+}
+
+#logo{
+	min-height: 130px;
+	background-color: #F0F0F0;
+		
+}
+
+#about{
+	width: 100%;
+	min-height: 600px;
+		// .startupClass{
+		// 	margin-top: 65px;
+		// 	margin-bottom: 20px;
+		// 		.every{
+		// 			font-weight: 300;
+		// 		}
+		// }
+
+		// .abzas{
+		// 	margin-top: 20px;
+		// }
+
+
+}
+		
+
+#technology{
+	min-height: 520px;
+
+		.agetechno{
+				font-weight:300;
+				margin-top:200px;
+
+			}
+}
+
+#hangOn{
+	min-height: 570px;
+
+		h1{
+			font-weight: 300;
+		}
+		.helmet{
+			margin-top:100px;
+		}
+}}
